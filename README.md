@@ -4,6 +4,7 @@ Vardhan AI is an AI-based execution platform that helps users complete real-worl
 
 ## Problem
 Many beginners know about AI tools like ChatGPT but struggle to use them effectively.
+<img width="1262" height="800" alt="Screenshot 2026-03-21 190108" src="https://github.com/user-attachments/assets/dc1d450f-4aed-4698-a495-7e46cc2b4a45" />
 
 ## Solution
 Vardhan AI provides:
