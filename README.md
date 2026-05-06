@@ -1,4 +1,4 @@
-# Vardhan AI
+ Vardhan AI
 
 Vardhan AI is an AI-based execution platform that helps users complete real-world tasks using structured workflows, prompts, and AI tools.
 
